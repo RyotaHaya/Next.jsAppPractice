@@ -1,5 +1,5 @@
-import { render, screen } from '@testing-library/react';
+import { render, screen } from '@testing-library/react'
 
 export function isZero(value: number): boolean {
-	return value === 0;
+  return value === 0
 }
